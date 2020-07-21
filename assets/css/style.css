@@ -1491,6 +1491,46 @@ section {
   }
 }
 
+.schedule-hero {
+  text-align: center;
+}
+
+.schedule-week {
+  margin-top: 2em;
+  font-size: 32px;
+}
+
+.schedule-day {
+  margin-top: 1em;
+}
+
+.event {
+  align-items: center;
+  background: #fff;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0px;
+  margin-top: 8px;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.event-title {
+  font-weight: bolder;
+}
+
+.event-time-container {
+  display: flex;
+  align-items: center;
+  margin-left: 1em;
+  width: 100px;
+  justify-content: space-between;
+}
+
+.event-icon {
+  height: 18px;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
