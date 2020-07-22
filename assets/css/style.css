@@ -392,10 +392,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-#hero .hero-img img {
-  width: 70%;
-}
-
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -1025,8 +1021,6 @@ section {
 
 .clients .client-logo img {
   max-width: 50%;
-  -webkit-filter: grayscale(100);
-  filter: grayscale(100);
 }
 
 .clients .client-logo:hover img {
