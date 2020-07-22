@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #fb2c54;
+  color: #444444;
 }
 
 a:hover {
-  color: #1eb4ff;
+  /* color: #1eb4ff; */
   text-decoration: none;
 }
 
@@ -1556,8 +1556,8 @@ section {
 }
 
 .schedule-week {
-  margin-top: 2em;
-  font-size: 32px;
+  margin-top: 0.618em;
+  font-size: 28px;
 }
 
 .schedule-day {
