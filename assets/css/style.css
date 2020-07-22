@@ -605,7 +605,7 @@ section {
 }
 
 .services .icon-box-pink .icon i {
-  color: #ff689b;
+  color: #ffd700;
 }
 
 .services .icon-box-pink:hover {
@@ -1019,9 +1019,9 @@ section {
   padding: 40px;
 }
 
-.clients .client-logo img {
+/* .clients .client-logo img {
   max-width: 50%;
-}
+} */
 
 .clients .client-logo:hover img {
   -webkit-filter: none;
